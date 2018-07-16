@@ -1,0 +1,19 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "description": "A phonebook to manage contacts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheChamp010/Phonebook.git"
+  },
+  "author": "TheChamp010",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheChamp010/Phonebook/issues"
+  },
+  "homepage": "https://github.com/TheChamp010/Phonebook#readme"
+}
